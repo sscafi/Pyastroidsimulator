@@ -2,7 +2,7 @@
 
 A sophisticated 3D simulation tool for visualizing and analyzing asteroid atmospheric entry trajectories. This simulator provides real-time visualization of asteroid descent paths with accurate physics modeling and atmospheric interactions.
 
-![Asteroid Simulator Screenshot](/api/placeholder/800/400)
+![Asteroid Simulator Screenshot](/api/placeholder/800/400).
 
 ## Features
 
